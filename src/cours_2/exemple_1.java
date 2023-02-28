@@ -2,7 +2,7 @@ package cours_2;
 
 import java.util.Scanner;
 
-public class exercice_1 {
+public class exemple_1 {
     public static void main(String[] args) {
         System.out.println("Saisissez votre âge");
 // saisie d'un entier
