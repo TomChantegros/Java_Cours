@@ -1,22 +1,13 @@
 package cours_3;
 
-import java.util.Scanner;
+public class exercice_4 {
 
-public class cours_3 {
     public static void main(String[] args) {
-        int i = 1;
-        while(i<=3)
+
+        for(int i=-10;i<=-1;i=i+1)
         {
             System.out.println(i);
-         i=i+1;
         }
 
-
-
-
     }
-
-
-
-
 }

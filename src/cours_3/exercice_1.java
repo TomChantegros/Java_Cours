@@ -1,13 +1,21 @@
 package cours_3;
 
-public class cours_3_B {
+public class exercice_1 {
     public static void main(String[] args) {
-
-        for(int i=1;i<=3;i=i+1)
+        int i = 1;
+        while(i<=3)
         {
             System.out.println(i);
+         i=i+1;
         }
 
+
+//affiche 123
+
+
     }
+
+
+
 
 }

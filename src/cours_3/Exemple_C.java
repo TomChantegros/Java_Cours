@@ -1,6 +1,6 @@
 package cours_3;
 
-public class cours_3_Exemple_C {
+public class Exemple_C {
 
     public static void main(String[] args) {
 // boucle de 1er niveau
